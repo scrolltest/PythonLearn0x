@@ -3,7 +3,7 @@
 ### Examples with Excercise to PRactice Python, API Automation and Web automation
 
 
-- 🔥 Python Basics
+- Python Basics
 - Variables
 - Data Types
 - Loops and Flow
